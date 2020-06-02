@@ -5,8 +5,8 @@ using UnityEngine;
 public class PlayerMotion : MonoBehaviour
 {
 
-	public float moveSpeed;
-	public Rigidbody theRB;
+    public float moveSpeed;
+    public Rigidbody theRB;
     public float jumpforce;
 
     // Start is called before the first frame update
