@@ -654,10 +654,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 5990a0e7-0105-4a5b-bef6-30cdc2f88512
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: MarkJaredDavidTakeOnUnity
+  organizationId: m_malysa
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
