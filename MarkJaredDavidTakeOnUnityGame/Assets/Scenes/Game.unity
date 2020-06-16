@@ -685,5 +685,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mouseXInputName: Mouse X
   mouseYInputName: Mouse Y
-  mouseSensitivity: 100
+  mouseSensitivity: 250
   playerBody: {fileID: 682334627}
